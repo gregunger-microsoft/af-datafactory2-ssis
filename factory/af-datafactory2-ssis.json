@@ -1,0 +1,9 @@
+{
+	"name": "af-datafactory2-ssis",
+	"location": "westus3",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "15e9db83-ebd8-4666-a806-c2431311a968",
+		"tenantId": "ded6b38d-d740-4564-ae25-2e3f041093be"
+	}
+}
